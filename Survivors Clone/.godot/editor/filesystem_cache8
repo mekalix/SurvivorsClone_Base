@@ -1,5 +1,5 @@
 2a60927148abd1d33b818b535e306557
-::res://::1682280760
+::res://::1682443291
 icon.svg::CompressedTexture2D::1730451811002220422::1681132966::1681133035::1::::<><>::
 ::res://Audio/::1681132966
 ::res://Audio/GUI/::1681133035
@@ -64,13 +64,13 @@ sword.png::CompressedTexture2D::1801190093482396320::1681132966::1681133035::1::
 tornado.png::CompressedTexture2D::604559770068131243::1681132966::1681133035::1::::<><>::
 ::res://Textures/Player/::1681133035
 player_sprite.png::CompressedTexture2D::1363074074835830945::1681132966::1681133035::1::::<><>::
-::res://Utility/::1682196062
+::res://Utility/::1682281323
 enemy_spawner.gd::GDScript::-1::1681150212::0::1::::<>Node2D<>::
 enemy_spawner.tscn::PackedScene::8137438492307196712::1682196062::0::1::::<><>::res://Utility/enemy_spawner.gd<>uid://crffcx00qh2xh<>res://Utility/spawn_info.gd
 hit_box.gd::GDScript::-1::1681142975::0::1::::<>Area2D<>::
 hit_box.tscn::PackedScene::4966104570655307803::1682196062::0::1::::<><>::res://Utility/hit_box.gd
-hurt_box.gd::GDScript::-1::1681216733::0::1::::<>Area2D<>::
-hurt_box.tscn::PackedScene::6238051485888842485::1682196062::0::1::::<><>::res://Utility/hurt_box.gd
+hurt_box.gd::GDScript::-1::1682281323::0::1::::<>Area2D<>::
+hurt_box.tscn::PackedScene::6238051485888842485::1682281323::0::1::::<><>::res://Utility/hurt_box.gd
 spawn_info.gd::GDScript::-1::1681149558::0::1::::Spawn_info<>Resource<>::
 ::res://World/::1682196062
 world.tscn::PackedScene::5322200487118394692::1682196062::0::1::::<><>::uid://bdwk7q4yet84x<>uid://b5epsda3fqjlu<>uid://dn63oncqs8j4c
